@@ -22,6 +22,7 @@
   transform: translate(-50%, -50%);
 }
 .image-cats {
+  margin-bottom: 500px;
     display: flex;
     gap: 100px;
     height: 700px;
