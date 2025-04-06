@@ -17,7 +17,7 @@ box.addEventListener(
   _.debounce((event) => {   
     box.style.left = event.clientX + "px";
     box.style.top = event.clientY + "px";
-  }, 100)
+  }, 20)
 );
 
 // t3
